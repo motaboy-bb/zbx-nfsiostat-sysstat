@@ -483,7 +483,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},ops/s]</key>
                                     </item>
                                 </graph_item>
@@ -495,7 +495,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},rops/s]</key>
                                     </item>
                                 </graph_item>
@@ -507,7 +507,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},wops/s]</key>
                                     </item>
                                 </graph_item>
@@ -539,7 +539,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},rkB_svr/s]</key>
                                     </item>
                                 </graph_item>
@@ -551,7 +551,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},wkB_svr/s]</key>
                                     </item>
                                 </graph_item>
@@ -583,7 +583,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},rkB_nor/s]</key>
                                     </item>
                                 </graph_item>
@@ -595,7 +595,7 @@
                                     <calc_fnc>2</calc_fnc>
                                     <type>0</type>
                                     <item>
-                                        <host>Template nfsiostat - Unixdev - Active</host>
+                                        <host>Template NFS io stat</host>
                                         <key>nfsiostat[{#MOUNT_POINT},wkB_nor/s]</key>
                                     </item>
                                 </graph_item>
