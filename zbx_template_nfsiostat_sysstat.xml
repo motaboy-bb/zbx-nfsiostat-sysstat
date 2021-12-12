@@ -9,8 +9,8 @@
     </groups>
     <templates>
         <template>
-            <template>Template nfsiostat - Unixdev - Active</template>
-            <name>Template nfsiostat - Unixdev - Active</name>
+            <template>Template NFS io stat</template>
+            <name>Template NFS io stat</name>
             <description/>
             <groups>
                 <group>
